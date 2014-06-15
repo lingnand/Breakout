@@ -11,4 +11,6 @@ A simple Java Breakout game, supporting
 * Score
     * displayed at the right bottom corner
 
+Year: 2012
+
 ![](screenshot.jpg)
